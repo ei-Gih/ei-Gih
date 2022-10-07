@@ -1,12 +1,33 @@
-## Bem-vindo(a) ao perfil ei_Gih 🍃
+## 🍃❤️Bem-vindo(a) ao perfil meu Github, é bom te ter aqui!❤️🍃
+<img src=banner.gif width="500px" align="right" />
 
- <div>
+<a href="linkedin.com/in/gisele-lais-aa3844252"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="http://api.whatsapp.com/send?1=pt_BR&phone=5511937002333"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.instagram.com/giselelais77/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:giselelais04@gmail.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+<div>
+<p>📌Estudante de Analisé e Desenvolvimento do Sistema;🎓</p>
+<p>📌Apaixonada por programação;💻</p>
+<p>📌Iniciante, porém todos os projetos são feitos com muito amor e dedicação.🖥</p>
+<p align="center"><strong>❤🤍Espero que gostem!💜💙<strong><p>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="gih-Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="gih-Ts" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="gih-React" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="gih-HTML" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="gih-CSS" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="gih-Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="gih-Csharp" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+</div>
+  
+  ##
+
+<div align="center">
   <a href="https://github.com/ei-Gih">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ei-Gih&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ei-Gih&layout=compact&langs_count=6&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-</div>
+
