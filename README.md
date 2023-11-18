@@ -1,7 +1,8 @@
 ## 🍃❤️Bem-vindo(a) ao perfil meu Github, é bom te ter aqui!❤️🍃
 <img src=banner.gif width="500px" align="right" />
 
-<a href="linkedin.com/in/gisele-lais"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="linkedin.com/in/gisele-lais"><img src="
+linkedin.com/in/gisele-lais" /></a>
 <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5511912920798"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="mailto:giselelais04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/giselelais77"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
