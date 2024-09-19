@@ -7,11 +7,12 @@
 <a href="https://www.instagram.com/giselelais77"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <div>
-<p>📌Estudante de Analisé e Desenvolvimento do Sistema;🎓</p>
+<p>📌Estudante de Gestão de TI;🎓</p>
 <p>📌Apaixonada por programação;💻</p>
 <p>📌Iniciante, porém todos os projetos são feitos com muito amor e dedicação.🖥</p>
 <p align="center"><strong>❤🤍Espero que gostem!💜💙<strong><p>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="gih-Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gih-Ts" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -20,9 +21,10 @@
   <img align="center" alt="gih-CSS" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gih-Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="gih-Csharp" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
 </div>
-  
+<div align="right">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=5D075F&center=true&width=435&lines=Desenvolvedora+Web;Desenvolvedora+FullStack;Desenvolvedora+FrontEnd;Desenvolcedora+BackEnd;Desenvolvedora+Ui%2FUx)](https://git.io/typing-svg)
+</div>  
   ##
 
 <div align="center">
