@@ -22,7 +22,6 @@
   <img align="center" alt="gih-Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="gih-Csharp" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div> 
-  ##
 <div align="center">
   <a href="https://github.com/ei-Gih">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ei-Gih&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
