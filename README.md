@@ -23,7 +23,7 @@
   <img align="center" alt="gih-Csharp" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <div align="right">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=5D075F&center=true&width=435&lines=Desenvolvedora+Web;Desenvolvedora+FullStack;Desenvolvedora+FrontEnd;Desenvolcedora+BackEnd;Desenvolvedora+Ui%2FUx)]
+  (https://git.io/typing-svg)
 </div>  
   ##
 
