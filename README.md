@@ -12,7 +12,7 @@
 <p>📌Iniciante, porém todos os projetos são feitos com muito amor e dedicação.🖥</p>
 <p align="center"><strong>❤🤍Espero que gostem!💜💙<strong><p>
 </div>
-  
+ Email de Contato: giselelais04@gmail.com 
 <div style="display: inline_block"><br>
   <img align="center" alt="gih-Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gih-Ts" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
