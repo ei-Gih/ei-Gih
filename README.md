@@ -7,7 +7,8 @@
 <a href="https://www.instagram.com/giselelais77"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <div>
-<p>📌Estudante de Gestão de TI;🎓</p>
+<p>📌Tecnologo em Gestão de TI;🎓</p>
+<p>📌Estudante de EngenhariadeSoftware;🎓</p>
 <p>📌Apaixonada por programação;💻</p>
 <p>📌Iniciante, porém todos os projetos são feitos com muito amor e dedicação.🖥</p>
 <p align="center"><strong>❤🤍Espero que gostem!💜💙<strong><p>
