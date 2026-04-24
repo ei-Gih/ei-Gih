@@ -14,7 +14,7 @@
 <p align="center"><strong>❤🤍Espero que gostem!💜💙<strong><p>
 </div>
  Email de Contato:<A href="giselelais04@gmail.com"> giselelais04@gmail.com</A>
-<div style="display: inline_block"><br>
+<div style="display: inline"><br>
   <img align="center" alt="gih-Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gih-Ts" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="gih-React" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
