@@ -1,101 +1,60 @@
-<div align="center">
-
-## 🌿 ❤️ Bem-vinda ao meu GitHub! ❤️ 🌿
-
-*Building the future, one commit at a time ✨*
-
----
-
-### 🔗 Me encontre por aí
-
-[![Portfólio](https://img.shields.io/badge/Portfólio-836FFF?style=for-the-badge&logoColor=white&logo=netlify)](https://gls-potilofio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gisele-lais/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?1=pt_BR&phone=5511912920798)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giselelais77)
-[![Gmail](https://img.shields.io/badge/giselelais04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giselelais04@gmail.com)
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9303c5&section=header&reversal=false&fontAlign=0&fontAlignY=0">
+<div align="center" width="100%">
+ <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=900&size=25&duration=900&pause=250&color=9303C5&width=435&lines=Be+Welcome!;I+am+from+Brazil;Software+Engineering;Front-end+%26+Fullstack;Evolving+developer" alt="Typing SVG" />
 </div>
 
+<p align="center">
+<samp>
+      Hi there! I'm <b>Gisele Lais</b>
+ </samp>
+</p>
+
+
+<p align="center">
+  <a href="https://gls-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfólio-836FFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gisele-lais/">
+    <img src="https://img.shields.io/badge/LinkedIn-214CCE?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5511912920798">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/giselelais77/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
-## 👩🏾‍💻 Sobre mim
+## 🌸 About me
+<img align="right" height="300" src="https://i.imgur.com/oRke57B.gif">
 
-<img align="right" src="banner.gif" width="380px" />
+<p align="left"> 
+🎓 Software Engineering Student.<br>  
+💜 Holds a degree in IT Management Technology. <br>
+💻 Passionate about front-end development.  <br>
+🚀 Constantly evolving to become a Fullstack developer. <br>
+💜 I believe that technology and creativity can transform ideas into incredible experiences.
 
-```js
-const gisele = {
-  role:     "Tecnóloga em Gestão de TI 🖥️",
-  studying: "Engenharia de Software 🎓",
-  passion:  "Programação & Front-End 💜",
-  focus:    ["JavaScript", "React", "TypeScript"],
-  goal:     "Tornar-me uma Dev Full Stack 🚀",
-  motto:    "Iniciante, mas com muito amor e dedicação ❤️"
-};
-```
 
-<br clear="right"/>
+> "Each project is a step closer to my goal"
 
----
+</p> 
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs" />
 
-## 🛠️ Tecnologias & Ferramentas
+<br><br><br>
 
 <div align="center">
-
-### 💛 Linguagens
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-
-### 🎨 Front-End
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧰 Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+  <img height="500" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ei-gih&theme=midnight_purple">
+  <img height="500" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ei-gih&theme=midnight_purple">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ei-gih&theme=midnight_purple"/>
 </div>
 
----
+<br>
 
-## 📊 GitHub Stats
+<p align="center">
+  💖 Thank you for visiting my profile!
+</p>
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ei-Gih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ei-Gih&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ei-Gih&theme=tokyonight&hide_border=true&locale=pt_BR" />
-
-</div>
-
----
-
-## 🌱 Atualmente aprendendo
-
-```
-📚  React avançado & hooks
-🎨  UI/UX e design de interfaces
-⚙️  Node.js & back-end
-🗄️  Bancos de dados (SQL & NoSQL)
-```
-
----
-
-<div align="center">
-
-### ✨ Obrigada por visitar meu perfil! ✨
-
-*Cada projeto aqui é feito com muito 💜 e dedicação*
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ei-Gih.ei-Gih)
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9303c5&section=footer&reversal=false&fontAlign=0&fontAlignY=0">
