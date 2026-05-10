@@ -28,7 +28,7 @@
 ---
 
 ## 🌸 About me
-<img align="right" height="300" src="https://i.imgur.com/oRke57B.gif">
+<img align="right" height="200" src="https://i.imgur.com/oRke57B.gif">
 
 <p align="left"> 
 🎓 Software Engineering Student.<br>  
@@ -46,8 +46,8 @@
 <br><br><br>
 
 <div align="center">
-  <img height="500" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ei-gih&theme=midnight_purple">
-  <img height="500" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ei-gih&theme=midnight_purple">
+  <img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ei-gih&theme=midnight_purple">
+  <img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ei-gih&theme=midnight_purple">
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ei-gih&theme=midnight_purple"/>
 </div>
 
