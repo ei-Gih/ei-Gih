@@ -54,7 +54,7 @@
 <br>
 
 <p align="center">
-  💖 Thank you for visiting my profile!
+  💖 Thank you for visiting my profile!💖
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9303c5&section=footer&reversal=false&fontAlign=0&fontAlignY=0">
